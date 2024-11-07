@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\bin\Debug\net8.0\09_operadores_logicos.exe
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\bin\Debug\net8.0\09_operadores_logicos.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\bin\Debug\net8.0\09_operadores_logicos.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\bin\Debug\net8.0\09_operadores_logicos.dll
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\bin\Debug\net8.0\09_operadores_logicos.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\09_operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\09_operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\09_operadores_logicos.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\09_operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\09_operadores_logicos.dll
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\refint\09_operadores_logicos.dll
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\09_operadores_logicos.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\09_operadores_logicos.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\09_operadores_logicos\obj\Debug\net8.0\ref\09_operadores_logicos.dll

@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\bin\Debug\net8.0\08_operadores_relacionais.exe
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\bin\Debug\net8.0\08_operadores_relacionais.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\bin\Debug\net8.0\08_operadores_relacionais.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\bin\Debug\net8.0\08_operadores_relacionais.dll
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\bin\Debug\net8.0\08_operadores_relacionais.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\08_operadores_relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\08_operadores_relacionais.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\08_operadores_relacionais.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\08_operadores_relacionais.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\08_operadores_relacionais.dll
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\refint\08_operadores_relacionais.dll
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\08_operadores_relacionais.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\08_operadores_relacionais.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\08_operadores_relacionais\obj\Debug\net8.0\ref\08_operadores_relacionais.dll

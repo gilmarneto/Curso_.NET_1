@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\bin\Debug\net8.0\03_constantes.exe
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\bin\Debug\net8.0\03_constantes.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\bin\Debug\net8.0\03_constantes.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\bin\Debug\net8.0\03_constantes.dll
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\bin\Debug\net8.0\03_constantes.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\03_constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\03_constantes.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\03_constantes.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\03_constantes.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\03_constantes.dll
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\refint\03_constantes.dll
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\03_constantes.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\03_constantes.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\03_constantes\obj\Debug\net8.0\ref\03_constantes.dll

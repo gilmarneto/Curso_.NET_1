@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\bin\Debug\net8.0\04_concatenacao.exe
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\bin\Debug\net8.0\04_concatenacao.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\bin\Debug\net8.0\04_concatenacao.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\bin\Debug\net8.0\04_concatenacao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\bin\Debug\net8.0\04_concatenacao.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\04_concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\04_concatenacao.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\04_concatenacao.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\04_concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\04_concatenacao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\refint\04_concatenacao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\04_concatenacao.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\04_concatenacao.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\04_concatenacao\obj\Debug\net8.0\ref\04_concatenacao.dll

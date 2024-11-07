@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\bin\Debug\net8.0\05_interacao.exe
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\bin\Debug\net8.0\05_interacao.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\bin\Debug\net8.0\05_interacao.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\bin\Debug\net8.0\05_interacao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\bin\Debug\net8.0\05_interacao.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\05_interacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\05_interacao.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\05_interacao.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\05_interacao.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\05_interacao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\refint\05_interacao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\05_interacao.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\05_interacao.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\05_interacao\obj\Debug\net8.0\ref\05_interacao.dll

@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\10_condicional_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\10_condicional_simples.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\10_condicional_simples.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\10_condicional_simples.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\bin\Debug\net8.0\10_condicional_simples.exe
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\bin\Debug\net8.0\10_condicional_simples.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\bin\Debug\net8.0\10_condicional_simples.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\bin\Debug\net8.0\10_condicional_simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\bin\Debug\net8.0\10_condicional_simples.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\10_condicional_simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\refint\10_condicional_simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\10_condicional_simples.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\10_condicional_simples.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\10_condicional_simples\obj\Debug\net8.0\ref\10_condicional_simples.dll

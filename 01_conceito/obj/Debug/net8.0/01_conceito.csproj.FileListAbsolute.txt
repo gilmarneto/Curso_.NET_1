@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\bin\Debug\net8.0\01_conceito.exe
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\bin\Debug\net8.0\01_conceito.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\bin\Debug\net8.0\01_conceito.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\bin\Debug\net8.0\01_conceito.dll
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\bin\Debug\net8.0\01_conceito.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\01_conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\01_conceito.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\01_conceito.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\01_conceito.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\01_conceito.dll
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\refint\01_conceito.dll
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\01_conceito.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\01_conceito.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\01_conceito\obj\Debug\net8.0\ref\01_conceito.dll

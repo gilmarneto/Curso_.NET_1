@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\06_conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\06_conversao.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\06_conversao.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\06_conversao.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\bin\Debug\net8.0\06_conversao.exe
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\bin\Debug\net8.0\06_conversao.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\bin\Debug\net8.0\06_conversao.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\bin\Debug\net8.0\06_conversao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\bin\Debug\net8.0\06_conversao.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\06_conversao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\refint\06_conversao.dll
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\06_conversao.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\06_conversao.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\06_conversao\obj\Debug\net8.0\ref\06_conversao.dll

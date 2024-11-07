@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\bin\Debug\net8.0\02_variaveis.exe
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\bin\Debug\net8.0\02_variaveis.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\bin\Debug\net8.0\02_variaveis.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\bin\Debug\net8.0\02_variaveis.dll
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\bin\Debug\net8.0\02_variaveis.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\02_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\02_variaveis.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\02_variaveis.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\02_variaveis.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\02_variaveis.dll
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\refint\02_variaveis.dll
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\02_variaveis.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\02_variaveis.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\02_variaveis\obj\Debug\net8.0\ref\02_variaveis.dll
