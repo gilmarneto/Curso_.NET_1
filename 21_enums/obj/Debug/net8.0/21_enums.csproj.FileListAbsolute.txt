@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\bin\Debug\net8.0\21_enums.exe
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\bin\Debug\net8.0\21_enums.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\bin\Debug\net8.0\21_enums.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\bin\Debug\net8.0\21_enums.dll
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\bin\Debug\net8.0\21_enums.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.dll
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\refint\21_enums.dll
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\21_enums.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\21_enums\obj\Debug\net8.0\ref\21_enums.dll

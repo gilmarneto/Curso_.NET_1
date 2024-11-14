@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\bin\Debug\net8.0\20_matriz.exe
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\bin\Debug\net8.0\20_matriz.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\bin\Debug\net8.0\20_matriz.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\bin\Debug\net8.0\20_matriz.dll
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\bin\Debug\net8.0\20_matriz.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.dll
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\refint\20_matriz.dll
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\20_matriz.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\20_matriz\obj\Debug\net8.0\ref\20_matriz.dll

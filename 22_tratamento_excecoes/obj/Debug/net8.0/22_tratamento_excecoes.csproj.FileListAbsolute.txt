@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\bin\Debug\net8.0\22_tratamento_excecoes.exe
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\bin\Debug\net8.0\22_tratamento_excecoes.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\bin\Debug\net8.0\22_tratamento_excecoes.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\bin\Debug\net8.0\22_tratamento_excecoes.dll
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\bin\Debug\net8.0\22_tratamento_excecoes.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.dll
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\refint\22_tratamento_excecoes.dll
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\22_tratamento_excecoes.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\22_tratamento_excecoes\obj\Debug\net8.0\ref\22_tratamento_excecoes.dll

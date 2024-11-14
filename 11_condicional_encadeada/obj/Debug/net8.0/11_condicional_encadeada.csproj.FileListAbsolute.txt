@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\bin\Debug\net8.0\11_condicional_encadeada.exe
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\bin\Debug\net8.0\11_condicional_encadeada.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\bin\Debug\net8.0\11_condicional_encadeada.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\bin\Debug\net8.0\11_condicional_encadeada.dll
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\bin\Debug\net8.0\11_condicional_encadeada.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.dll
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\refint\11_condicional_encadeada.dll
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\11_condicional_encadeada.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\11_condicional_encadeada\obj\Debug\net8.0\ref\11_condicional_encadeada.dll

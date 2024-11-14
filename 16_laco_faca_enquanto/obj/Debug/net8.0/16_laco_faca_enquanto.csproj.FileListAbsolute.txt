@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\bin\Debug\net8.0\16_laco_faca_enquanto.exe
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\bin\Debug\net8.0\16_laco_faca_enquanto.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\bin\Debug\net8.0\16_laco_faca_enquanto.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\bin\Debug\net8.0\16_laco_faca_enquanto.dll
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\bin\Debug\net8.0\16_laco_faca_enquanto.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.dll
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\refint\16_laco_faca_enquanto.dll
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\16_laco_faca_enquanto.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\16_laco_faca_enquanto\obj\Debug\net8.0\ref\16_laco_faca_enquanto.dll

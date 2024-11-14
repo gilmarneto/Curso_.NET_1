@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\bin\Debug\net8.0\13_operador_ternario.exe
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\bin\Debug\net8.0\13_operador_ternario.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\bin\Debug\net8.0\13_operador_ternario.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\bin\Debug\net8.0\13_operador_ternario.dll
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\bin\Debug\net8.0\13_operador_ternario.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.dll
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\refint\13_operador_ternario.dll
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\13_operador_ternario.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\13_operador_ternario\obj\Debug\net8.0\ref\13_operador_ternario.dll

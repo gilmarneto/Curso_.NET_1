@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\bin\Debug\net8.0\17_laco_for.exe
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\bin\Debug\net8.0\17_laco_for.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\bin\Debug\net8.0\17_laco_for.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\bin\Debug\net8.0\17_laco_for.dll
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\bin\Debug\net8.0\17_laco_for.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.dll
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\refint\17_laco_for.dll
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\17_laco_for.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\17_laco_for\obj\Debug\net8.0\ref\17_laco_for.dll

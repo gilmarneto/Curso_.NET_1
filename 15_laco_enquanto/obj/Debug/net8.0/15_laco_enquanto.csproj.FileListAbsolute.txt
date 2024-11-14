@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\bin\Debug\net8.0\15_laco_enquanto.exe
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\bin\Debug\net8.0\15_laco_enquanto.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\bin\Debug\net8.0\15_laco_enquanto.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\bin\Debug\net8.0\15_laco_enquanto.dll
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\bin\Debug\net8.0\15_laco_enquanto.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.dll
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\refint\15_laco_enquanto.dll
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\15_laco_enquanto.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\15_laco_enquanto\obj\Debug\net8.0\ref\15_laco_enquanto.dll

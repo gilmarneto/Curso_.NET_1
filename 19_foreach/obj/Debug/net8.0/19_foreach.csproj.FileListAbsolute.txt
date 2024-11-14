@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\bin\Debug\net8.0\19_foreach.exe
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\bin\Debug\net8.0\19_foreach.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\bin\Debug\net8.0\19_foreach.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\bin\Debug\net8.0\19_foreach.dll
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\bin\Debug\net8.0\19_foreach.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.dll
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\refint\19_foreach.dll
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\19_foreach.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\19_foreach\obj\Debug\net8.0\ref\19_foreach.dll

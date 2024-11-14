@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\bin\Debug\net8.0\Calculadora_Simples.exe
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\bin\Debug\net8.0\Calculadora_Simples.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\bin\Debug\net8.0\Calculadora_Simples.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\bin\Debug\net8.0\Calculadora_Simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\bin\Debug\net8.0\Calculadora_Simples.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\refint\Calculadora_Simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\Calculadora_Simples.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\EXERCICIOS\calculadora_simples\obj\Debug\net8.0\ref\Calculadora_Simples.dll

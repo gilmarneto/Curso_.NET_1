@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\bin\Debug\net8.0\18_vetor.exe
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\bin\Debug\net8.0\18_vetor.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\bin\Debug\net8.0\18_vetor.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\bin\Debug\net8.0\18_vetor.dll
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\bin\Debug\net8.0\18_vetor.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.dll
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\refint\18_vetor.dll
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\18_vetor.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\18_vetor\obj\Debug\net8.0\ref\18_vetor.dll

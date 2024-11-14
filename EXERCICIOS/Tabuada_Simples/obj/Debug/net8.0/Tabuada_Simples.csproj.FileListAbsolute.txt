@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\bin\Debug\net8.0\Tabuada_Simples.exe
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\bin\Debug\net8.0\Tabuada_Simples.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\bin\Debug\net8.0\Tabuada_Simples.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\bin\Debug\net8.0\Tabuada_Simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\bin\Debug\net8.0\Tabuada_Simples.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\refint\Tabuada_Simples.dll
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\Tabuada_Simples.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\tabuada_simples\obj\Debug\net8.0\ref\Tabuada_Simples.dll

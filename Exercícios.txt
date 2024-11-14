@@ -1,0 +1,13 @@
+01. Calculadora Simples
+Escreva um programa que solicite ao usuário dois números e exiba a soma, subtração, multiplicação e divisão desses números.
+Dica: Utilize as operações aritméticas básicas (+, -, *, /).
+** Finalizado em: 13/11/2024 **
+
+02. Par ou Ímpar
+Peça ao usuário para inserir um número e, em seguida, determine se ele é par ou ímpar.
+Dica: Use o operador % para verificar o resto da divisão por 2.
+
+
+03. Tabuada
+Crie um programa que peça ao usuário um número e exiba a tabuada desse número de 1 a 10.
+Dica: Use um loop for para iterar de 1 a 10 e multiplique pelo número dado.
