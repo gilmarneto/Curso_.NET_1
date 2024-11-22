@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\bin\Debug\net8.0\28_list.exe
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\bin\Debug\net8.0\28_list.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\bin\Debug\net8.0\28_list.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\bin\Debug\net8.0\28_list.dll
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\bin\Debug\net8.0\28_list.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.dll
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\refint\28_list.dll
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\28_list.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\28_list\obj\Debug\net8.0\ref\28_list.dll

@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\bin\Debug\net8.0\33_manipular_txt.exe
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\bin\Debug\net8.0\33_manipular_txt.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\bin\Debug\net8.0\33_manipular_txt.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\bin\Debug\net8.0\33_manipular_txt.dll
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\bin\Debug\net8.0\33_manipular_txt.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.dll
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\refint\33_manipular_txt.dll
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\33_manipular_txt.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\33_manipular_txt\obj\Debug\net8.0\ref\33_manipular_txt.dll

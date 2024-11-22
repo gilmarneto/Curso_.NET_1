@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\bin\Debug\net8.0\27_arraylist.exe
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\bin\Debug\net8.0\27_arraylist.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\bin\Debug\net8.0\27_arraylist.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\bin\Debug\net8.0\27_arraylist.dll
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\bin\Debug\net8.0\27_arraylist.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.dll
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\refint\27_arraylist.dll
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\27_arraylist.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\27_arraylist\obj\Debug\net8.0\ref\27_arraylist.dll
