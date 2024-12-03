@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\bin\Debug\net8.0\30_dictionary.exe
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\bin\Debug\net8.0\30_dictionary.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\bin\Debug\net8.0\30_dictionary.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\bin\Debug\net8.0\30_dictionary.dll
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\bin\Debug\net8.0\30_dictionary.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.dll
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\refint\30_dictionary.dll
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\30_dictionary.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\30_dictionary\obj\Debug\net8.0\ref\30_dictionary.dll

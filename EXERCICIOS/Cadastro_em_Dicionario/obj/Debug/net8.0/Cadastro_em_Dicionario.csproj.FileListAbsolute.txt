@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\bin\Debug\net8.0\Cadastro_em_Dicionario.exe
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\bin\Debug\net8.0\Cadastro_em_Dicionario.deps.json
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\bin\Debug\net8.0\Cadastro_em_Dicionario.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\bin\Debug\net8.0\Cadastro_em_Dicionario.dll
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\bin\Debug\net8.0\Cadastro_em_Dicionario.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.dll
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\refint\Cadastro_em_Dicionario.dll
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.pdb
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\Cadastro_em_Dicionario.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_1\exercicios\Cadastro_em_Dicionario\obj\Debug\net8.0\ref\Cadastro_em_Dicionario.dll
