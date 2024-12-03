@@ -1,0 +1,11 @@
+adrianwilczynski.namespace
+formulahendry.code-runner
+ms-dotnettools.csdevkit
+ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+oracle.sql-developer
+ritwickdey.liveserver
+zobo.php-intellisense
